@@ -1,0 +1,12 @@
+p {
+  font-family: Lato;
+}
+
+.simpleclass {
+  padding: 1vw;
+  /* background-color: aquamarine; */
+}
+
+.cardclass {
+  padding: 1vw;
+}
